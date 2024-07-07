@@ -1,0 +1,5 @@
+{
+    "version": "1.9.7",
+    "archive": "RELEASE-1.97.zip",
+    "description": "<p>v1.9.7</p><br><ul><li>Added-Option:Seller wise add item into cart option (Single seller only add to cart option) (Admin panel, website, app)</li><li>Added-Wallet transaction history (Website, customer app)</li><li>Added-Seller transaction history (Seller app)</li><li>Added-Seller commission (Admin panel, seller panel)</li><li>Added-Return order item system with wallet (Website)</li><li>Added-Cancel order item system with wallet (Website)</li><li>Added-Wallet system added (Website)</li><li>Added-Edit and delete product option in seller (App)</li><li>Improved-Website Flow</li><li>Fixed-Other improvements and fixes</li></ul>"
+}
